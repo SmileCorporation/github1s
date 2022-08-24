@@ -22,7 +22,7 @@ Or save the following code snippet as a bookmarklet, you can use it to quickly s
 
 ```
 javascript: window.location.href = window.location.href.replace(/github(1s)?.com/, function(match, p1) { return p1 ? 'github.com' : 'github1s.com' })
-```
+```       
 
 ### Develop in the cloud
 
